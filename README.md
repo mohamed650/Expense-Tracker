@@ -14,5 +14,11 @@ Expense tracker application to manage all income and expenses
 
 # Screenshot
 
+![Image of application main screen](https://github.com/mohamed650/VUE-EXPENSE-TRACKER/blob/master/src/assets/Home.png)
+
+# Live Demo
+
+ - The site is published at [Vue Expense Tracker](https://65e1a37b782a51af933100fd--vueexpensetracker.netlify.app/)
+
 
 
